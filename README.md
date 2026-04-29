@@ -26,12 +26,9 @@
   <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vue logo"  />
   <img width="12" />  
   <img width="12" />  
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
   <img width="12" />  
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />  
-  <img width="12" />  
 
 </div>
 
