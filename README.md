@@ -42,8 +42,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=OscarGAV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&rank_icon=github&count_private=true" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OscarGAV&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=ffffff" height="165" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=OscarGAV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&rank_icon=github&count_private=true" width="45%" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OscarGAV&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=ffffff" width="35%" alt="languages graph" />
 </div>
 
 ###
