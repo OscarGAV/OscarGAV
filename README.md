@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi, I am Oscar Gabriel Aranda Vallejos</h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F7FF&background=00000000&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Database+Intern;Competitive+Programmer;Full+Stack+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F7FF&background=00000000&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Database+Intern;Competitive+Programmer" alt="Typing SVG" />
 
 ---
 
@@ -20,9 +20,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring boot logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vue logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo" />
 </div>
 
 ###
